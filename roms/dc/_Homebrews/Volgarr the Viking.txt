@@ -1,0 +1,59 @@
+Volgarr the Viking by Crazy Viking Studios
+Dreamcast Port by Marc Hall
+
+You are Volgarr!
+Do you have what it takes to be the greatest Viking Barbarian Lord in the world?
+Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches.
+Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat.
+Battle Gigantic bosses in every world and find secrets that lead to unknown paths.
+Holding onto Volgarr's gear is key; his very life depends on it.
+www.volgarrtheviking.com/dreamcast/
+	
+To play:
+Burn Volgarr.cdi to a blank CDR using any disc writing software that supports CDI format. Tested with ImgBurn 2.5.8.0.
+Note that some late model dreamcasts do not support CDR games.
+
+Despite what the startup screen that we are forced to display says, product is NOT licensed by Sega.
+
+-------------------
+Version History:
+
+2015-10-15:
+
+* (Taron) Added support for Achievement and Records tracking
+* (Taron) Fixed World 4 Boss Theme music sometimes not playing
+* (Taron) Added support for graphics clip rects (scissor test), to hide elements that aren't supposed to be visible (most notably the treasure pile being visible under the floor in the Home Base room).
+* (Taron) Fade out between maps is now properly fading to/from Black instead of White
+
+
+2015-08-21:
+
+* (Taron) Fixed music not playing when level restarts after player dies
+* (Taron) Added support for pitch-shifting sound effects
+* (Taron) Fixed music volume level balancing not being applied
+* (Taron) Added support for music loop-back points
+
+
+2015-05-06:
+
+* (Marc) Dreamcast port completed and shown to be stable on actual hardware
+
+
+-------------------
+IMPORTANT:
+
+This port of Volgarr the Viking was not created by Crazy Viking Studios, but it was created with their full permission and access to the original source code and assets.  This means that Crazy Viking Studios does NOT guarantee the quality of this product, or even that it will work at all.  Use at your own risk!
+
+License Agreement:
+
+This Dreamcast version of Volgarr the Viking is freeware.  You can use this software royalty-free for private and commercial purposes.
+
+You can freely distribute copies of this software as long as no charge is raised except a reasonable fee for distribution costs, and as long as this ReadMe file is included with it.
+
+You may not modify, reverse engineer, decompile, or disassemble the object code portions of this software.
+
+This software is provided "as is" and without any warranties expressed or implied, including, but not limited to, implied warranties of fitness for a particular purpose, and non-infringement.  You expressly acknowledge and agree that use of the Software is at your sole risk.
+
+In no event shall the author be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of use of or inability to use this software, even if the author has been advised of the possibility of such damages.
+
+If your locality does not allow these conditions, you are not granted permission to use this software.

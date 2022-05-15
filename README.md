@@ -1,3 +1,5 @@
+![RetroGameStation](https://github.com/MaximLopez/RetroGameStation/blob/main/.GitHub/General/SocialPreview.jpg)
+
 # RetroGameStation
 <p>A Windows (64 bits) front-end for RetroArch.</p>
 
